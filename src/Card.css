@@ -1,7 +1,10 @@
 .card {
   box-sizing: border-box;
-  background-color: rgb(135, 180, 167);
+  background-color: rgb(85, 140, 158);
   /* border: 2px solid rgb(0, 10, 11); */
-  padding: 10px;
   font-family: garamond;
+  border-radius: 5px;
+  opacity: .8;
+  padding: 10px;
+  text-align: center;
 }

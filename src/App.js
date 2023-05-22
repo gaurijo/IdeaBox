@@ -11,7 +11,7 @@ class App extends Component {
       ideas: [
         { id: 1, title: 'Wine tasting', description: 'Enjoy local Italian wine with a lakeside view' },
         { id: 2, title: 'Visit Duomo di Milano', description: 'Enjoy being a tourist, and get those steps in' },
-        { id: 3, title: 'Have coffee at Starbucks Reserve', description: 'Cozy vibes all day' },
+        { id: 3, title: 'Coffee at Starbucks Reserve', description: 'Cozy vibes all day' },
       ]
     }
   }

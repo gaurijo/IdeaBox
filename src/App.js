@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Ideas from './Ideas';
 import Form from './Form';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 class App extends Component {

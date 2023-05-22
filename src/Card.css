@@ -1,7 +1,7 @@
 .card {
   box-sizing: border-box;
-  background-color: rgb(217, 210, 228);
+  background-color: rgb(135, 180, 167);
   /* border: 2px solid rgb(0, 10, 11); */
   padding: 10px;
-  font: helvetica;
+  font-family: garamond;
 }

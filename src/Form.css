@@ -1,12 +1,19 @@
 form {
   margin: auto;
+  border-radius: 5px;
 }
 
 button {
+  border-radius: 5px;
   margin: 15px;
-  width: 10%;
-  color:aliceblue;
-  background-color: #2F6569;
+  border: 1px solid #000;
+  padding: 10px 20px;
+  font-family: garamond;
+  font-size: 2em;
+  cursor: pointer;
+  /* width: 10%; */
+  color:rgb(241, 237, 237);
+  background-color: #101111;
   /* border: 2px solid rgb(0, 0, 0); */
   font-size: 18px;
 }

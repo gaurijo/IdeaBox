@@ -47,7 +47,7 @@ class Form extends Component {
             onChange={event => this.handleChange(event)}
             />
 
-            <button onClick={event => this.submitIDea(event)}>SUBMIT</button>
+            <button onClick={event => this.submitIDea(event)}>submit</button>
         </form>
     )
   }

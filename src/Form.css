@@ -2,9 +2,11 @@ form {
   margin: auto;
 }
 
-input, button {
+button {
   margin: 15px;
-  width: 30%;
-  border: 2px solid rgb(166, 227, 174);
+  width: 10%;
+  color:aliceblue;
+  background-color: #2F6569;
+  /* border: 2px solid rgb(0, 0, 0); */
   font-size: 18px;
 }

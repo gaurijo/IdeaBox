@@ -1,6 +1,7 @@
 .card {
   box-sizing: border-box;
-  background-color: lightpink;
-  border: 2px solid rgb(0, 10, 11);
+  background-color: rgb(217, 210, 228);
+  /* border: 2px solid rgb(0, 10, 11); */
   padding: 10px;
+  font: helvetica;
 }

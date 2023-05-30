@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  font-family: garamond;
+  font-family: helloHoney;
   background-image: url('/public/como2.jpeg');
   min-height: 100%;
   min-width: 1024px;
@@ -16,6 +16,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+
+/* .title {
+  font-family: AlexanderLettering;
+  color: #0004;
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

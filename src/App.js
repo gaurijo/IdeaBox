@@ -27,10 +27,11 @@ class App extends Component {
     this.setState({ ideas: filteredIdeas });
   }
 
+
 render() {
     return (
       <main className='App'>
-        <h1>Ideas for Italy</h1>
+        <h1>Things to do in Italy</h1>
         {!this.state.ideas.length && <h2>No ideas yet -- add some!</h2>}
         <Form addIdea={this.addIdea} />
         <Ideas ideas={this.state.ideas} deleteIdea={this.deleteIdea} />

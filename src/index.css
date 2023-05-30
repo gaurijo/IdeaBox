@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'AlexanderLettering';
+  src: url(./fonts/AlexanderLettering_PERSONAL_USE_ONLY.otf);
+  font-family: 'helloHoney';
+  src: url(./fonts/helloHoney.otf);
+}
